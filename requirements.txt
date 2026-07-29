@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-chroma
+langchain-ollama
+langchain-text-splitters
+huggingface_hub
+sentence-transformers
+chromadb
+pypdf
+gradio
+pydantic
+numpy
+requests
+jupyter
