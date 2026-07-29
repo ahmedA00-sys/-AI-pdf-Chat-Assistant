@@ -8,7 +8,7 @@
 | ---------------- | ------------------------------------ |
 | Full Name        |     Ahmed Soliman Saad Abdelhamid    |
 | Project Name     | AI PDF Chat Assistant                |
-| GitHub Username  |                                      |
+| GitHub Username  |      ahmedA00-sys                    |
 | Challenge Batch  | June–July 2026                       |
 | Training Program | Large Language Models (LLMs) Program |
 
