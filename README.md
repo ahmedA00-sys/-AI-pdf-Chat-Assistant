@@ -6,12 +6,11 @@
 
 | Field            | Value                                |
 | ---------------- | ------------------------------------ |
-| Full Name        |                                      |
+| Full Name        |     Ahmed Soliman Saad Abdelhamid    |
 | Project Name     | AI PDF Chat Assistant                |
 | GitHub Username  |                                      |
 | Challenge Batch  | June–July 2026                       |
 | Training Program | Large Language Models (LLMs) Program |
-| Organization     | [**Edrak for Ai**](https://edrak4ai.com/en)                         |
 
 ---
 
